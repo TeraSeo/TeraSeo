@@ -50,4 +50,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeraSeo&hide=contribs,prs&show_icons=true&theme=테마)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeraSeo)](https://github.com/anuraghazra/github-readme-stats)
+
