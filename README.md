@@ -7,7 +7,7 @@
 </div>
 
 <li>🚀 Passionate software developer eager to grow through hands-on experience</li>
-<li>🎯 Focused on backend development, cloud deployment, and scalable systems</li>
+<li>🎯 Focused on backend development and scalable systems</li>
 <li>🤝 Skilled in team collaboration within Agile/Scrum environments</li>
 <li>🛠️ Always excited to explore new tools, frameworks, and technologies</li>
 <li>🔍 Actively looking for job opportunities!</li>
