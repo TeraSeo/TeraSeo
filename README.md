@@ -5,8 +5,12 @@
 <div align="center">
 	<h2>:bulb: Introduction</h2>
 </div>
-<li>I'm a student who wants to be a backend developer</li>
-<li>Actively seeking for an internship!</li>
+
+<li>🚀 Passionate software developer eager to grow through hands-on experience</li>
+<li>🎯 Focused on backend development, cloud deployment, and scalable systems</li>
+<li>🤝 Skilled in team collaboration within Agile/Scrum environments</li>
+<li>🛠️ Always excited to explore new tools, frameworks, and technologies</li>
+<li>🔍 Actively looking for job opportunities!</li>
 
 <br>
 <br>
@@ -32,12 +36,15 @@
 	<br>
 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 	<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-	<br>
-   	<br>
-	<h3>Tools</h3>
+</div>
+
+<br>
+<div align="center">
+	<h3>🛠 Tools</h3>
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
