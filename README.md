@@ -20,11 +20,14 @@
 <div align="center">
 	<h3>Platforms & Languages</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    	<br>
 	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
+	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -48,6 +51,4 @@
 	<h2>🔥 Github Stats</h2>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeraSeo&hide=contribs,prs&show_icons=true&theme=테마)
-<br>
-
+![Taejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeraSeo&hide=contribs,prs&show_icons=true&theme=radical)
